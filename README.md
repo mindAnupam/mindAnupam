@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mindAnupam
+- 👋 Hi, I’m Anupam
 - 👀 I’m interested in Develoment
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on woodwing
